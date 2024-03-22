@@ -392,7 +392,6 @@ def main():
                     
                     # Use Dijkstra's algorithm to find the path for each train
                     path = dijkstra(start_node_name, goal_node_name, premier_node.departure_date, premier_node.departure_time, premier_node.arrival_date, premier_node.arrival_time, graph)
-                    print(path)
                     if path: # If a path is found
                         # Get departure and arrival node information
                         departure_node = path[0]
