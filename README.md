@@ -2,7 +2,7 @@ Laura VERCHERE
 Andrea MACHEDA
 Liam HUISSOUD
 
-# Projet-TGV-No4j
+# Projet-TGV-Neo4j
 
 The goal of the project is to provide the user with the railway route to travel from a departure station A to a departure station B, both previously provided by the user. Additionally, refinement by departure or arrival time will also be possible.
 
